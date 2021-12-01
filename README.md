@@ -31,13 +31,9 @@ My focus for now is **Front-End**, as I'm currently working on various projects 
 ![image](https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png)
 ![image](https://cdn.iconscout.com/icon/free/png-64/webstorm-3521803-2945220.png)
 
-
-
-
-
-
 <hr>
 
 ### Get in touch: 
 - Twitter: https://twitter.com/CupCoffeeLover <br>
 - Telegram: https://t.me/AnnaRX <br>
+- LinkedIn: https://www.linkedin.com/in/ana-maria-rusu-3527b017b/
