@@ -18,6 +18,26 @@ My focus for now is **Front-End**, as I'm currently working on various projects 
 
 <hr>
 
+### Technologies and Tools:
+![image](https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png)
+![image](https://cdn.iconscout.com/icon/free/png-64/typescript-3629120-3030260.png)
+![image](https://cdn.iconscout.com/icon/free/png-64/html5-41-1175209.png)
+![image](https://cdn.iconscout.com/icon/free/png-64/css3-10-1175238.png)
+![image](https://cdn.iconscout.com/icon/free/png-64/sass-226054.png)
+![image](https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png)
+![image](https://cdn.iconscout.com/icon/free/png-64/php-2752101-2284918.png)
+![image](https://cdn.iconscout.com/icon/free/png-64/figma-3521426-2944870.png)
+![image](https://cdn.iconscout.com/icon/free/png-64/gitlab-10-1175217.png)
+![image](https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png)
+![image](https://cdn.iconscout.com/icon/free/png-64/webstorm-3521803-2945220.png)
+
+
+
+
+
+
+<hr>
+
 ### Get in touch: 
 - Twitter: https://twitter.com/CupCoffeeLover <br>
 - Telegram: https://t.me/AnnaRX <br>
