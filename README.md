@@ -16,7 +16,7 @@ My focus for now is **Front-End**, as I'm currently working on various projects 
 🌌 Space enthusiast <br>
 :octocat: Who doesn't love cats and octopuses?? <br>
 
-
+<hr>
 
 ### Get in touch: 
 - Twitter: https://twitter.com/CupCoffeeLover <br>
