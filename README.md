@@ -1,4 +1,4 @@
-## Hi there, I'm Anna 👋
+## Hi, I'm Anna 👋
 
 ![1 QlIAjfemVgbCpfTWyzP7AA](https://user-images.githubusercontent.com/68968068/144143679-414b237a-551c-4ff4-873e-84898bdef7a8.png)
 
