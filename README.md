@@ -1,6 +1,6 @@
 ## Hi, I'm Anna 👋
 
-![1 QlIAjfemVgbCpfTWyzP7AA](https://user-images.githubusercontent.com/68968068/144143679-414b237a-551c-4ff4-873e-84898bdef7a8.png)
+![1 QlIAjfemVgbCpfTWyzP7AA](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a85c7d660e3d4aaebb1f4fb0264c665d~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 I'm a **Web Developer** at the beginning of the journey.<br>
