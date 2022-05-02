@@ -9,7 +9,7 @@ My focus for now is **Front-End**, as I'm currently working on various projects 
 <hr>
 
 ### About Me:
-⚛️ I'm currently learning React and also improve my TypeScript skills <br>
+⚛️ React.js developer <br>
 🎮 One of my main hobbies is gaming <br>
 📈 I'm a crypto/stock market investor <br>
 ☕ Never skip coffee <br>
