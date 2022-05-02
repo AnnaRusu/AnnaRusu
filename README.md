@@ -2,12 +2,6 @@
 
 ![1 QlIAjfemVgbCpfTWyzP7AA](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a85c7d660e3d4aaebb1f4fb0264c665d~tplv-k3u1fbpfcp-zoom-1.image)
 
-
-I'm a **Web Developer** at the beginning of the journey.<br>
-My focus for now is **Front-End**, as I'm currently working on various projects and learning continuously, aiming to eventually become a *Full-Stack* freelancer.
-
-<hr>
-
 ### About Me:
 ⚛️ React.js developer <br>
 🎮 One of my main hobbies is gaming <br>
