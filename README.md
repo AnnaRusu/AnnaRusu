@@ -27,6 +27,6 @@
 <hr>
 
 ### Get in touch: 
-- Twitter: https://twitter.com/CupCoffeeLover <br>
+- Twitter: https://twitter.com/AnnaRX4 <br>
 - Telegram: https://t.me/AnnaRX <br>
-- LinkedIn: https://www.linkedin.com/in/ana-maria-rusu-3527b017b/
+- LinkedIn: https://www.linkedin.com/in/anamaria-rusu/
