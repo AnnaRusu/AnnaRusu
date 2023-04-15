@@ -7,6 +7,7 @@
 🎮 One of my main hobbies is gaming <br>
 📈 I'm a crypto/stock market investor <br>
 ☕ Never skip coffee <br>
+🔐 Cybersecurity enthusiast <br>
 🌌 Space enthusiast <br>
 :octocat: Who doesn't love cats and octopuses?? <br>
 
